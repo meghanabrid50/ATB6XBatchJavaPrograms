@@ -7,7 +7,7 @@ public class Lab089 {
             case 'A':
                 yield 65;  // Yeild is a keyword means that it returns a value.Break is not needed in this case
             case 'B':
-                yield  66;
+                yield  66;  // Yeild only return one value
             default:
                 System.out.println("Not able to find");
                 throw  new IllegalStateException("Error");
