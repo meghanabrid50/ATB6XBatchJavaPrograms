@@ -1,7 +1,5 @@
 package ex_25042024;
 
-import javax.swing.*;
-import java.lang.management.MonitorInfo;
 import java.util.Scanner;
 
 public class Lab080 {

@@ -1,6 +1,6 @@
 package ex_23042024;
 
-import javax.swing.*;
+//import javax.swing.*;
 
 public class Lab073 {
     public static void main(String[] args) {

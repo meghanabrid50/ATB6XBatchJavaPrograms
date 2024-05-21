@@ -1,7 +1,5 @@
 package ex_25042024;
 
-import java.awt.desktop.SystemEventListener;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Lab081 {
