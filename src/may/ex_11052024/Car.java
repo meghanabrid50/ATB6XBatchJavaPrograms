@@ -1,4 +1,4 @@
-package may.ex_11_05_2024;
+package may.ex_11052024;
 
 public class Car {
     //Attributes/Properties

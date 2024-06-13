@@ -1,6 +1,4 @@
-package may.ex_11_05_2024;
-
-import javax.xml.transform.Source;
+package may.ex_11052024;
 
 public class Person {
     //Attribute
